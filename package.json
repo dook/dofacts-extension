@@ -1,6 +1,6 @@
 {
-  "name": "dofacts-extension",
-  "version": "1.1.4",
+  "name": "fakehunter-extension",
+  "version": "1.1.5",
   "main": "index.js",
   "license": "MIT",
   "scripts": {

@@ -1,4 +1,4 @@
-# DoFacts! - browser extension
+# #FakeHunter - browser extension
 
 Browser extension for reporting questionable content published on the Internet regarding the SARS-CoV-2 virus.
 
@@ -8,18 +8,12 @@ Create .env file based on env.example
 
 ### Prerequisites
 
- * Node.js v12.16.1
- * Yarn
-
-### Installing
-
-```
-yarn install
-```
+ * Node.js >= v12.16.1
+ * Yarn/npm
 
 ### Scripts
 
-- `yarn install` - install all dependencies
+- `yarn install` - install all dependencies before start
 - `yarn build-firefox` - create production build for firefox
 - `yarn build-chrome` - create production build for chrome
 - `yarn build-firefox:dev` - create development build for firefox 

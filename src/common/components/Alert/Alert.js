@@ -3,8 +3,8 @@ import bn from "bem-names";
 
 import { useTranslation } from "react-i18next";
 
-import SuccessIcon from "../../../assets/icons/svg/green-48.svg";
-import WarningIcon from "../../../assets/icons/svg/yellow-48.svg";
+import SuccessIcon from "../../../assets/icons/svg/success.svg";
+import WarningIcon from "../../../assets/icons/svg/warning.svg";
 
 import {
   WEBSITE_LOADING,

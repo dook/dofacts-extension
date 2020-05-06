@@ -5,8 +5,8 @@ import { useTranslation } from "react-i18next";
 
 import { SUCCESS, FAILURE } from "../../../../base/enums/upload";
 
-import SuccessIcon from "../../../../assets/icons/svg/green-128.svg";
-import FailureIcon from "../../../../assets/icons/svg/red-128.svg";
+import SuccessIcon from "../../../../assets/icons/svg/success.svg";
+import FailureIcon from "../../../../assets/icons/svg/warning.svg";
 
 import "./SubmissionStatus.scss";
 

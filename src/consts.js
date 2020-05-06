@@ -9,9 +9,9 @@ export const EXTENSION_ICON = {
     "128": "assets/icons/png/green-128.png",
   },
   UNSUPORTED: {
-    "16": "assets/icons/png/yellow-16.png",
-    "48": "assets/icons/png/yellow-48.png",
-    "128": "assets/icons/png/yellow-128.png",
+    "16": "assets/icons/png/gray-16.png",
+    "48": "assets/icons/png/gray-48.png",
+    "128": "assets/icons/png/gray-128.png",
   },
   BLOCKED: {
     "16": "assets/icons/png/red-16.png",
